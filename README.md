@@ -1,6 +1,6 @@
 All fractals arengenerated using turtle pakage
 
-[1]Sierpinski’s Triangle
+[1] Sierpinski’s Triangle
 
 The technique of subdividing a shape into smaller copies of itself, removing one or more copies, and continuing recursively can be extended to other shapes. 
 
@@ -55,7 +55,9 @@ The Fibonacci numbers, commonly denoted Fn , form a sequence, the Fibonacci se
 Source: https://en.wikipedia.org/wiki/Fibonacci_number
 
 Fibonacci Spiral
+
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/114034184/206064151-b5f1de9b-11de-4bb1-a65a-584d4131898d.png">
+
 Input  - s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
 
 [6] Pentaflake
@@ -67,6 +69,7 @@ There is also a variation of the pentaflake that has no central pentagon. Its Ha
 Source: https://en.wikipedia.org/wiki/N-flake
 
 Pentaflake
+
 <img width="281" alt="image" src="https://user-images.githubusercontent.com/114034184/206064227-2f70b9d6-e084-49a5-a731-f00c0fb19ec4.png">
 
 Input  - s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
