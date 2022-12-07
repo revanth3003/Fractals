@@ -1,10 +1,15 @@
-[3.8] Sierpinski’s Triangle
+Sierpinski’s Triangle
 
 The technique of subdividing a shape into smaller copies of itself, removing one or more copies, and continuing recursively can be extended to other shapes. 
 
 The Sierpiński triangle is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Start with an equilateral triangle. Subdivide it into four smaller congruent equilateral triangles and remove the central triangle. Repeat step 2 with each of the remaining smaller triangles infinitely. The below figure is the Sierpinski Triangle’s output generated for stage 4
 source: https://en.wikipedia.org/wiki/Sierpiński_triangle 
-Sierpinski’s Triangle
+							Sierpinski’s Triangle
+
+<img width="172" alt="image" src="https://user-images.githubusercontent.com/114034184/206063929-9ac00f50-974d-4eb7-8572-5de4e8d86a5e.png">
+
+s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
+
 [3.9] Sierpinski’s Carpet
 
 The technique of constructing Sierpinski’s carpet is like that of Sierpinski’s Triangle. The construction of the Sierpiński carpet begins with a square. The square is cut into 9 congruent sub squares in a 3-by-3 grid, and the central sub square is removed. The same procedure is then applied recursively to the remaining 8 sub squares and goes infinitely. The below figure is the Sierpinski Carpet’s output generated for stage 2. 
