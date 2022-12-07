@@ -1,3 +1,5 @@
+All fractals arengenerated using turtle pakage
+
 Sierpinski’s Triangle
 
 The technique of subdividing a shape into smaller copies of itself, removing one or more copies, and continuing recursively can be extended to other shapes. 
@@ -9,7 +11,7 @@ Sierpinski’s Triangle
 
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/114034184/206063929-9ac00f50-974d-4eb7-8572-5de4e8d86a5e.png">
 
-s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
+Input  - s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
 
 [3.9] Sierpinski’s Carpet
 
@@ -20,7 +22,7 @@ Sierpinski’s Carpet
 
 <img width="192" alt="image" src="https://user-images.githubusercontent.com/114034184/206064072-176a2130-73a9-410b-b00f-c9e61f6d1837.png">
 
-s - Number of stages or interaction (Example: s = 2) (Should be a positive integer)
+Input  - s - Number of stages or interaction (Example: s = 2) (Should be a positive integer)
 
 
  [3.10] Koch Curve/Snowflake
@@ -31,7 +33,7 @@ Source: https://en.wikipedia.org/wiki/Koch_snowflake
 Koch Curve/Snowflake
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/114034184/206064093-57a44f87-bffe-4848-babf-4ee64f6144fd.png">
 
-s - Number of stages or interaction (Example: s = 2) (Should be a positive integer)
+Input  - s - Number of stages or interaction (Example: s = 2) (Should be a positive integer)
 
 [3.11] Fern Leaf
 
@@ -42,8 +44,8 @@ Source: https://en.wikipedia.org/wiki/Barnsley_fern
 
 Fern Leaf
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/114034184/206064119-09e273fe-2eb0-47db-8964-927680da0de7.png">
-n - Number of stages (Example: n = 100000) (Should be a positive integer) (For better results the points should be more than 100,000)
-p - probability factor (Generated as Uniform random points (0,1)
+Input  - n - Number of stages (Example: n = 100000) (Should be a positive integer) (For better results the points should be more than 100,000)
+	 p - probability factor (Generated as Uniform random points (0,1)
 
 [3.12] Fibonacci Series
 	
@@ -52,7 +54,7 @@ Source: https://en.wikipedia.org/wiki/Fibonacci_number
 
 Fibonacci Spiral
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/114034184/206064151-b5f1de9b-11de-4bb1-a65a-584d4131898d.png">
-s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
+Input  - s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
 
 [3.13] Pentaflake
 
@@ -65,5 +67,5 @@ Source: https://en.wikipedia.org/wiki/N-flake
 Pentaflake
 <img width="281" alt="image" src="https://user-images.githubusercontent.com/114034184/206064227-2f70b9d6-e084-49a5-a731-f00c0fb19ec4.png">
 
-s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
+Input  - s - Number of stages or interaction (Example: s = 4) (Should be a positive integer)
  
